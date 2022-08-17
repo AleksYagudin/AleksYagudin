@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Aleks!");
+﻿int numberA = 355;
+int numberB = 321;
+Console.WriteLine(numberA + numberB);
